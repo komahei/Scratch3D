@@ -1,0 +1,14 @@
+C:\Users\takum\source\repos\Scratch3D\bin\Debug\net8.0\Scratch3D.exe
+C:\Users\takum\source\repos\Scratch3D\bin\Debug\net8.0\Scratch3D.deps.json
+C:\Users\takum\source\repos\Scratch3D\bin\Debug\net8.0\Scratch3D.runtimeconfig.json
+C:\Users\takum\source\repos\Scratch3D\bin\Debug\net8.0\Scratch3D.dll
+C:\Users\takum\source\repos\Scratch3D\bin\Debug\net8.0\Scratch3D.pdb
+C:\Users\takum\source\repos\Scratch3D\obj\Debug\net8.0\Scratch3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takum\source\repos\Scratch3D\obj\Debug\net8.0\Scratch3D.AssemblyInfoInputs.cache
+C:\Users\takum\source\repos\Scratch3D\obj\Debug\net8.0\Scratch3D.AssemblyInfo.cs
+C:\Users\takum\source\repos\Scratch3D\obj\Debug\net8.0\Scratch3D.csproj.CoreCompileInputs.cache
+C:\Users\takum\source\repos\Scratch3D\obj\Debug\net8.0\Scratch3D.dll
+C:\Users\takum\source\repos\Scratch3D\obj\Debug\net8.0\refint\Scratch3D.dll
+C:\Users\takum\source\repos\Scratch3D\obj\Debug\net8.0\Scratch3D.pdb
+C:\Users\takum\source\repos\Scratch3D\obj\Debug\net8.0\Scratch3D.genruntimeconfig.cache
+C:\Users\takum\source\repos\Scratch3D\obj\Debug\net8.0\ref\Scratch3D.dll
